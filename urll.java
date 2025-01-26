@@ -1,0 +1,33 @@
+public class urll {
+            1. https://github.com/polinatut/exem_java/blob/main/ex_2/ExtractNumbers.java
+            2. https://github.com/mirrrler/tasksj
+            3. https://github.com/dariadegt/java_exam/blob/main/Task_4.java
+            4. https://github.com/gavalone/java_tasks/blob/main/src/Task_5.java
+            5. https://github.com/flamingo99900/JavaEkz/tree/task_7
+            6. https://github.com/gavalone/java_tasks/blob/main/src/Task_8.java
+            7. https://github.com/itsvakonst/javaexam/blob/main/Task9.java
+            8. https://github.com/Delia0001/java_exam/blob/main/Task_10.java
+            9. https://github.com/NafaNaniz/exam/blob/main/RecursiveFactorial.java
+            10. https://github.com/polinatut/exem_java/blob/main/ex_13/MatrixSum.java
+            11. https://github.com/dariadegt/java_exam/blob/main/Task_15.java
+            12. https://github.com/max33128/tasks
+            13. https://github.com/flamingo99900/JavaEkz/tree/task_18
+            14. https://github.com/gavalone/java_tasks/blob/main/src/Matrix.java
+            15. https://github.com/itsvakonst/javaexam/blob/main/Task20.java
+            16. https://github.com/Delia0001/java_exam/blob/main/Task_21.java
+            17. https://github.com/NafaNaniz/exam/blob/main/WorkScheduleGenerator.java
+            18. https://github.com/polinatut/exem_java/tree/main/ex_24
+            19. https://github.com/dariadegt/java_exam/blob/main/Task_26.java
+            20. https://github.com/gavalone/java_tasks/blob/main/src/Number.java
+            21. https://github.com/flamingo99900/JavaEkz/tree/task_29
+            22. https://github.com/itsvakonst/javaexam/blob/main/Task31.java
+            23. https://github.com/Delia0001/java_exam/blob/main/Task_32.java
+            24. https://github.com/polinatut/exem_java/tree/main/ex_35
+            25. https://github.com/dariadegt/java_exam/blob/main/Task_37.java
+            26. https://github.com/flamingo99900/JavaEkz/tree/task_40
+            27. https://github.com/max33128/tasks
+            28. https://github.com/itsvakonst/javaexam/tree/main/Task42/main
+            29. https://github.com/Delia0001/java_exam/tree/main/Task43/main
+            30. https://github.com/Delia0001/java_exam/blob/main/task_43.zip
+            31. https://github.com/polinatut/exem_java/tree/main/ex_46
+}
